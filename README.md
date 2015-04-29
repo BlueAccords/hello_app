@@ -8,6 +8,7 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 # apparently http and https are different for github when it comes to ssh keys
 # more changes. another change.
+# testing change
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
