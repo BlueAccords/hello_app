@@ -32,6 +32,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
+  #MOVED HERE FROM UP TOP TO WORK WITH HEROKU
+  # http://docs.railsbridge.org/intro-to-rails/deploying_to_heroku
   gem 'sqlite3', '1.3.9'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', '>= 3.4.0'
